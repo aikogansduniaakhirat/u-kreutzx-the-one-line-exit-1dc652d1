@@ -1,0 +1,11 @@
+{
+  "name": "u-kreutzx-the-one-line-exit-1dc652d1",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Writes one line to /output/entry.txt: the funniest single-line resignation letter the author could get past the gate.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
